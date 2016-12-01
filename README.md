@@ -46,3 +46,13 @@ a {color:orange}
       <div>Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language. 
         </div>
         </li>
+        <li class="list"><b>JavaScript</b> <img src="https://www.syncano.io/blog/content/images/2016/02/javascript-code.jpg">
+     <div>JavaScript is a high-level, dynamic, untyped, and interpreted programming language. Alongside HTML and CSS, JavaScript is one of the three core technologies of World Wide Web content production; the majority of websites employ it, and all modern Web browsers support it without the need for plug-ins </div>
+</li> 
+</ul>
+       <div class="inner">You can get more information about <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>, <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> and <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> on Wikipedia.
+         </div>
+         
+       </div 
+       </body>
+    </html>

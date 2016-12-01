@@ -1,8 +1,3 @@
-# WHAT
-smth about
-
-Readme editing
-
  <!doctype html>
   <html>
   <head>
